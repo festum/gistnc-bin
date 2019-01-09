@@ -1,6 +1,6 @@
 # gistnc - A gist synchronization tool
 
-![](https://img.shields.io/github/languages/top/badges/shields.svg) ![](https://img.shields.io/github/license/festum/gistnc-bin.svg) ![](https://img.shields.io/github/downloads/festum/gistnc-bin/latest/total.svg) ![](https://img.shields.io/github/tag/festum/gistnc-bin.svg)
+![](https://img.shields.io/github/license/festum/gistnc-bin.svg) ![](https://img.shields.io/github/downloads/festum/gistnc-bin/latest/total.svg) ![](https://img.shields.io/github/tag/festum/gistnc-bin.svg)
 
 ## Features
 
